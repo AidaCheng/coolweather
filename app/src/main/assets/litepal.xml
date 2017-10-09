@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="cool_weather" />
+
+    <version name="1" />
+
+    <list>
+        <mapping class="com.aidacheng.coolweather.db.Province"/>
+        <mapping class="com.aidacheng.coolweather.db.City"/>
+        <mapping class="com.aidacheng.coolweather.db.Country"/>
+    </list>
+</litepal>
